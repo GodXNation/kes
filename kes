@@ -1,5 +1,4 @@
 <?php
-
 $keys = array('godxnation',); 
 
 if (in_array($keys,TRUE)) {
